@@ -1,12 +1,12 @@
 # Election Analysis
 
 ## Overview of Election Audit 
-The following congressional election audit was performed for the Colorado Elections Commision. Using provided election results data and Python, I tabulated, analyzed and provided synthesized election results to the board. vote distribution by candidate and county to the election commission. 
+The following congressional election audit was performed for the Colorado Elections Commision. Using provided election results data and Python, I tabulated, analyzed and provided synthesized election results, including candidate and county vote distribution, to the commission.
 
 ### About Dataset
 Provided election results data included voter 'Ballot ID', voter 'County', and selected 'Candidate' with each row representating a vote cast. 
 
-## Election-Audit Results 
+## Election-Audit Results
 
 #### County Breakdown
 
