@@ -14,7 +14,7 @@ I performed an election audit of a congressional race with the purpose of analyz
   - Jefferson: 10.5% (38,855)
   - Arapahoe: 6.7% (24,801)
 
-- County with the largest number of votes: Denver
+- County with the largest number of votes: **Denver**
 
 ![Distribution of Votes by County](https://github.com/SidneyHollingsworth/Election-Analysis/blob/15f0012a44986871d970cceb55bfabb6d706a115/Resources/Graph_Vote_Distribution_by_County.png)
 
@@ -25,7 +25,7 @@ I performed an election audit of a congressional race with the purpose of analyz
   - Charles Casper Stockham: 23.0% (85,213),
   - Raymon Anthony Doane: 3.1% (11,606),
 
-- Winning candidate: Diana DeGette
+- Winning candidate: **Diana DeGette**
   - Winning Vote Count: 272,892
   - Winning Percentage: 73.8%
 
