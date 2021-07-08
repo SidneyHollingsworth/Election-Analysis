@@ -35,7 +35,8 @@ Provided election results data included voter 'Ballot ID', voter 'County', and s
 ![Distribution of Votes by Candidate](https://github.com/SidneyHollingsworth/Election-Analysis/blob/15f0012a44986871d970cceb55bfabb6d706a115/Resources/Graph_Vote_Distribution_by_Candidate.png)
 
 ## Election-Audit Summary 
-[In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.]
+Might it be of interest to the Colorado Elections Commission, the `PyPoll_Challenge.py` Python script can be edited slightly and re-used for any election.
+
 Ways this script can be modified for future use:
 1. X
 2. Y
