@@ -1,7 +1,10 @@
 # Election Analysis
 
 ## Overview of Election Audit 
-I performed an election audit of a congressional race with the purpose of analyzing and providing vote distribution by candidate and county to the election commission. Provided data included voter 'Ballot ID', voter 'County', and selected 'Candidate' with each row representating a vote cast. 
+The following congressional election audit was performed for the Colorado Elections Commision. Using provided election results data and Python, I tabulated, analyzed and provided synthesized election results to the board. vote distribution by candidate and county to the election commission. 
+
+### About Dataset
+Provided election results data included voter 'Ballot ID', voter 'County', and selected 'Candidate' with each row representating a vote cast. 
 
 ## Election-Audit Results 
 
@@ -9,7 +12,7 @@ I performed an election audit of a congressional race with the purpose of analyz
 
 - Total Votes: 369,711
 
-- Breakdown of the number of votes and the percentage of total votes for each county in the precinct:
+- Number of votes and the percentage of total votes for each county:
   - Denver: 82.8% (306,055)
   - Jefferson: 10.5% (38,855)
   - Arapahoe: 6.7% (24,801)
