@@ -35,8 +35,8 @@ Provided election results data included voter 'Ballot ID', voter 'County', and s
 ![Distribution of Votes by Candidate](https://github.com/SidneyHollingsworth/Election-Analysis/blob/15f0012a44986871d970cceb55bfabb6d706a115/Resources/Graph_Vote_Distribution_by_Candidate.png)
 
 ## Election-Audit Summary 
-Might it be of interest to the Colorado Elections Commission, the `PyPoll_Challenge.py` Python script can be edited slightly and re-used for any election.
+Might it be of interest to the Colorado Elections Commission, the `PyPoll_Challenge.py` Python script can be edited slightly and re-used for any election or poll as long as a like csv with three columns is provided. Existing script can even handle more than three unique County or Candidate Names.
 
 Ways this script can be modified for future use:
-1. X
-2. Y
+1. Municipal proposition elections in which the Candidate column and related objects be renamed to Support for Proposition, For or Against.
+2. Popular candidate by county.
